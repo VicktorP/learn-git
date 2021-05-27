@@ -1,0 +1,28 @@
+.nav {
+  grid-area: n;
+  background-color: rgba(203, 192, 253, 0.37);
+  padding: 25px;
+}
+
+.nav__menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav__item + .nav__item {
+  margin-top: 20px;
+}
+
+.nav__menu .nav__item:last-child {
+  margin-top: 40px;
+}
+
+.nav__link {
+  color: black;
+  text-decoration: none;
+}
+
+.item {
+  color: rgb(32, 211, 211);
+}
