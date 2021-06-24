@@ -1,0 +1,11 @@
+.profile {
+  padding-bottom: 50px;
+}
+
+.profile__main-img {
+  width: 100%;
+}
+
+.profile__ava {
+  display: flex;
+}

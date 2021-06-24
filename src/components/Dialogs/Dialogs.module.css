@@ -1,0 +1,16 @@
+.dialogs {
+  display: flex;
+}
+
+.dialogs__list {
+  padding-right: 30px;
+  border-right: 1px solid #000;
+}
+
+.dialogs__user-active {
+  color: rgb(255, 38, 0);
+}
+
+.dialogs__messages {
+  padding-left: 30px;
+}
